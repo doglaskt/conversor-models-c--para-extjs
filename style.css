@@ -1,0 +1,4 @@
+h3{margin-left:10px;}
+h3 span{font-size: 10px; font-style: italic; color: dimgray;}
+.panel{max-width:1000px; margin:10px;}
+.panel .btn{float: right;}
